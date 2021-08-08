@@ -1,2 +1,4 @@
 # r-resolusi
-Repository untuk menyimpan source code hasil belajar materi git github di Web Programming UNPAS
+- Konsisten untuk belajar pemrograman
+- Konsisten untuk membuat dan mengembangkan projek
+- Menyelesaikan pelajaran-pelajaran dasar dalam pemrograman web
